@@ -285,8 +285,3 @@ Results show:
 B.E. Electronics Engineering (VLSI Design & Technology)
 
 Interested in RTL Design • Memory Design • Physical Design • ASIC Verification
-
-
----
-
-⭐ If you found this repository useful, please consider giving it a star.
